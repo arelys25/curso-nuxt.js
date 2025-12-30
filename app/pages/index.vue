@@ -1,6 +1,8 @@
 <template>
     <div>
-        <h1>Home page</h1>
+        <TitlePage title="Welcome to Our Application" />
+
+        <UiButton/>
     </div>
 </template>
 
