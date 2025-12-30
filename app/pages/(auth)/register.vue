@@ -5,6 +5,10 @@
 </template>
 
 <script setup>
+    // funcion que sirve para que la pagina detecte que hya un layout especifico 
+    definePageMeta({
+        layout: 'auth-layout',
+    });
 
 </script>
 
